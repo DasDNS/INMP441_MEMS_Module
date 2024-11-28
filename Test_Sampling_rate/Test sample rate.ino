@@ -3,7 +3,7 @@
 
 // I2S settings
 #define SAMPLE_RATE 16000            // INMP441 minimum supported sample rate
-#define TARGET_RATE 16000            // Target sample rate for the test
+#define TARGET_RATE 8000            // Target sample rate for the test
 #define I2S_BUFFER_SIZE 512         // Buffer size for I2S
 
 // Pin configurations (update according to your board)
