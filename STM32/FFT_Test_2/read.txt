@@ -1,1 +1,1 @@
-
+Get an audio file via serial and convert the audio data into frequency domain and save them into a text file using a python script.
