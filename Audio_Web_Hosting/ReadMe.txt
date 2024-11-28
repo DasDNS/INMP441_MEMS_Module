@@ -5,3 +5,5 @@ the microcontroller is acting as the web server.
 Download the wav file by typing http://<IP of the ESP32>/recording
 IP of the ESP32 can be obtained by pressing the RESET button.
 
+A raw file is getting downloaded.
+Import the file and export it into a wav file using a software like Audacity.
